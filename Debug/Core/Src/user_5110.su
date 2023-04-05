@@ -1,0 +1,8 @@
+../Core/Src/user_5110.c:104:6:LCD_Init	8	static
+../Core/Src/user_5110.c:116:6:LCD_Reset	8	static
+../Core/Src/user_5110.c:127:6:LCD_Set_Postion	16	static
+../Core/Src/user_5110.c:135:6:LCD_Clear	16	static
+../Core/Src/user_5110.c:152:6:LCD_Write_Char	24	static
+../Core/Src/user_5110.c:164:6:LCD_Write_String	16	static
+../Core/Src/user_5110.c:176:6:LCD_Write_Command	16	static
+../Core/Src/user_5110.c:188:6:LCD_Write_Data	16	static
